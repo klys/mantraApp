@@ -1,0 +1,9 @@
+Thank you for purchasing my Date Picker for Android asset.
+
+The following functions are included:
+
+- Android_Show_Date_Picker (no return value, shows the date picker)
+- Android_Get_Date_Set (returns double, 1 for date set, 0 for date not set)
+- Android_Get_Day (returns string, containing day in format "00")
+- Android_Get_Month (returns string, containing month in format "MMM")
+- Android_Get_Year (returns string, containing year in format "1234")

@@ -1,0 +1,3 @@
+with(objMiniTopMenuSlider) {
+    return moving;
+}
